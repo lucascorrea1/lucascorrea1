@@ -1,21 +1,31 @@
-### Olá, eu sou o Lucas Corrêa! 👋
+<p align="left"><img src="https://komarev.com/ghpvc/?username=lucascorrea1" alt="dexternatan" /></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascga/)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11292063/lucas-corr%c3%aaa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.lucascorrea/)
+### Welcome! I'm Lucas Corrêa 👋
 
-![Corrêa GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascorrea1&theme=dracula) 
+## About me
 
-## Tecnologias que eu uso no meu dia
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucascga/)](https://www.linkedin.com/in/lucascga/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+51+999354855_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+51+998161300_de_telefone&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rs.lucascorrea@gmail.com)](mailto:rs.lucascorrea@gmail.com)
 
-<div style="display: inline_block">
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="css3" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img alt="css3" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+![Corrêa GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascorrea1&theme=tokyonight)
 
 <br/>
-Graduando em Análise e Desenvolvimento de Sistemas. 
-<br/>
-Apaixonado por desenvolvimento de software, hábitos e desafios. 
+
+## Technologies and tools that I work with:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<p>- Studying Systems Analysis and Development at Unisinos. </p>
+
+<p>- Passionate about software development, habits and challenges.</p>
+
+<p>- Thanks for the visit.</p>
