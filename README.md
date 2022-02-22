@@ -24,6 +24,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+![Snake animation](https://github.com/lucascorrea1/lucascorrea1/blob/output/github-contribution-grid-snake.svg)
+
 <p>- Studying Systems Analysis and Development at Unisinos. </p>
 
 <p>- Passionate about software development, habits and challenges.</p>
